@@ -3,6 +3,10 @@
 %stop_submission;
 
 Altair personal slc monarch exercise 39 bank statement analysis
+Too Log to post here, see github
+
+github
+https://github.com/rogerjdeangelis/utl-altair-personal-slc-monarch-exercise-39-bank-statement-analysis
 
 I assume activity means number of lines in each bank with and witout keywords?.
 It appears there is no viewer for ppwx files, even when unzipped
