@@ -4,6 +4,11 @@ Altair personal slc monarch exercise 39 bank statement analysis
 
     %stop_submission;
 
+    Too Long to post here, see github
+
+    github
+    https://github.com/rogerjdeangelis/utl-altair-personal-slc-monarch-exercise-39-bank-statement-analysis
+
     Altair personal slc monarch exercise 39 bank statement analysis
 
     I assume activity means number of lines in each bank with and witout keywords?.
